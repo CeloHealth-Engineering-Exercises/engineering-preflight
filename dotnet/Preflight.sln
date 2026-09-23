@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preflight.Api", "src\Preflight.Api\Preflight.Api.csproj", "{BE6D4953-010B-47A2-9B01-D5FB1219D605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preflight.Tests", "test\Preflight.Tests\Preflight.Tests.csproj", "{6A04DB25-B973-4182-8754-E6945B4A7135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6D4953-010B-47A2-9B01-D5FB1219D605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6D4953-010B-47A2-9B01-D5FB1219D605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6D4953-010B-47A2-9B01-D5FB1219D605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6D4953-010B-47A2-9B01-D5FB1219D605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A04DB25-B973-4182-8754-E6945B4A7135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A04DB25-B973-4182-8754-E6945B4A7135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A04DB25-B973-4182-8754-E6945B4A7135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A04DB25-B973-4182-8754-E6945B4A7135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
