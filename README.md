@@ -19,8 +19,8 @@ If you cloned it earlier, pull the latest `main` before running the checks.
 
 Use the lane agreed with your interviewer:
 
-- [TypeScript](typescript/) — Node.js 22+ and npm
-- [C# / .NET](dotnet/) — .NET 8 SDK
+- [TypeScript](typescript/) — requires Node.js 22.6+ and npm
+- [C# / .NET](dotnet/) — requires the .NET 8 SDK
 
 The lane README is the source of truth for the exact working directory, requirements, test command, run command, local URL, and expected result.
 
