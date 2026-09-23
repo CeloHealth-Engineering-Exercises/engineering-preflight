@@ -6,6 +6,16 @@ This is an environment check only. There is no coding task.
 
 - .NET 8 SDK
 
+## Working directory
+
+From the repository root:
+
+```bash
+cd dotnet
+```
+
+Run the remaining commands from this directory.
+
 ## Test
 
 ```bash
