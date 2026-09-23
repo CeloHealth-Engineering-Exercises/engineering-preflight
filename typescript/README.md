@@ -4,7 +4,7 @@ This is an environment check only. There is no coding task.
 
 ## Requirements
 
-- Node.js 22 or newer
+- Node.js 22.6 or newer
 - npm
 
 ## Test

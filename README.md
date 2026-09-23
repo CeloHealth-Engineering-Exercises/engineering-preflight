@@ -19,7 +19,7 @@ If you already cloned it earlier, pull the latest `main` before running the chec
 
 Use the language lane agreed with your interviewer:
 
-- [TypeScript](typescript/) — requires Node.js 22+ and npm
+- [TypeScript](typescript/) — requires Node.js 22.6+ and npm
 - [C# / .NET](dotnet/) — requires the .NET 8 SDK
 
 The lane README is the source of truth for the exact requirements, test command, run command, local URL, and expected result.
